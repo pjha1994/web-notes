@@ -1,0 +1,9 @@
+web2gl
+bash
+Intel Analysis of Speculative Execution Side Channels
+Meltdown and Spectre Linux kernel status
+
+
+#delete these two lines once its done cnaging directory. No need to commit
+import os
+os.chdir()
