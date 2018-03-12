@@ -7,3 +7,7 @@ Meltdown and Spectre Linux kernel status
 #delete these two lines once its done cnaging directory. No need to commit
 import os
 os.chdir()
+
+python projects in virtual environment
+
+AWS 3.5GB remaining on 08-03-2018
