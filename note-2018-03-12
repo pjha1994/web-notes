@@ -3,5 +3,7 @@ Numpy :  add,subtract,zeroes,ones,arange,linsoace,rann,random.rand,slicing,sum,m
 Numpy ufunc documentation
 
 Pandas :  Like dataframes in R, visualisation.
-
+	
 pip or conda install
+
+series datatype to dataframes
